@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CoffeeShopAPI",
+    "\\CoffeeShopAPI\\Controllers",
+    "\\CoffeeShopAPI\\Models",
+    "\\CoffeeShopAPI\\Repositories"
+  ],
+  "SelectedNode": "\\CoffeeShopAPI\\Startup.cs",
+  "PreviewInSolutionExplorer": false
+}
